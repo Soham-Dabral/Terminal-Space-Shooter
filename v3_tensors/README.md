@@ -1,4 +1,4 @@
-# Terminal Space Shooter v0.3 (PyTorch)
+# Terminal Space Shooter v3 (PyTorch)
 
 A simple terminal-based arcade shooter built in Python using **PyTorch tensors** to manage game objects. The player moves across the bottom of the screen, shoots descending enemies, collects shields, and survives as long as possible.
 
@@ -71,7 +71,7 @@ pip install torch
 ## Running the Game
 
 ```bash
-python game.py
+python Terminal-Space-Shooter-v3.py
 ```
 
 ---
