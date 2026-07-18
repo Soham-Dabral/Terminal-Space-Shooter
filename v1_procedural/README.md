@@ -33,4 +33,4 @@ A terminal-based space shooter game written in Python.
 Run:
 
 ```bash
-python space_shooter.py
+python Terminal-Space-Shooter-v1.py
