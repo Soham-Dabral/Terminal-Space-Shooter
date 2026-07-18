@@ -67,4 +67,4 @@ Shield pickups temporarily protect the player from incoming enemy collisions.
 ## Running the Game
 
 ```bash
-python filename.py
+python Terminal-Space-Shooter-v2.py
